@@ -1,0 +1,15 @@
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\bin\Debug\net7.0\Lee.Crypto.Examples.exe
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\bin\Debug\net7.0\Lee.Crypto.Examples.deps.json
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\bin\Debug\net7.0\Lee.Crypto.Examples.runtimeconfig.json
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\bin\Debug\net7.0\Lee.Crypto.Examples.dll
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\bin\Debug\net7.0\Lee.Crypto.Examples.pdb
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.csproj.AssemblyReference.cache
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.AssemblyInfoInputs.cache
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.AssemblyInfo.cs
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.csproj.CoreCompileInputs.cache
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.dll
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\refint\Lee.Crypto.Examples.dll
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.pdb
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\Lee.Crypto.Examples.genruntimeconfig.cache
+C:\src\msc-applied-crypto\public-key\dotnet\Lee.Crypto.Examples\obj\Debug\net7.0\ref\Lee.Crypto.Examples.dll
