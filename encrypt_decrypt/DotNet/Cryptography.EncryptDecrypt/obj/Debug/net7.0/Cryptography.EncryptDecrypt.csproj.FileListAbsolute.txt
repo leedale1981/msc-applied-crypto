@@ -1,0 +1,15 @@
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\bin\Debug\net7.0\Cryptography.EncryptDecrypt.exe
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\bin\Debug\net7.0\Cryptography.EncryptDecrypt.deps.json
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\bin\Debug\net7.0\Cryptography.EncryptDecrypt.runtimeconfig.json
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\bin\Debug\net7.0\Cryptography.EncryptDecrypt.dll
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\bin\Debug\net7.0\Cryptography.EncryptDecrypt.pdb
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.csproj.AssemblyReference.cache
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.AssemblyInfoInputs.cache
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.AssemblyInfo.cs
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.csproj.CoreCompileInputs.cache
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.dll
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\refint\Cryptography.EncryptDecrypt.dll
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.pdb
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\Cryptography.EncryptDecrypt.genruntimeconfig.cache
+D:\src\Playground\cryptography\encrypt_decrypt\DotNet\Cryptography.EncryptDecrypt\obj\Debug\net7.0\ref\Cryptography.EncryptDecrypt.dll
